@@ -161,8 +161,7 @@ Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) 
 Total Number of Employees		Attrition Rate
 	1470	                         16%	  
 
-	[WA_Fn-UseC_-HR-Employee-Attrition analysis.xlsx](https://github.com/user-attachments/files/17970710/WA_Fn-UseC_-HR-Employee-Attrition.analysis.xlsx)
-
+	
 
 
 
