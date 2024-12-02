@@ -157,10 +157,8 @@ Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) 
 - I noticed my pivot Table was showing blank whereas i do not have any blank row; Solution applied was clean(trim(Cell))
 
 ## Dashboard
+![image](https://github.com/user-attachments/assets/6bc05f61-9d3e-48fc-92f2-ad5076b54ebf)
 			
-https://github.com/oakindeji1/HR-Analytics-Employee-Attrition-amp-Performance/blob/main/WA_Fn-UseC_-HR-Employee-Attrition%20analysis.xlsx	  
-
-	
 
 
 
