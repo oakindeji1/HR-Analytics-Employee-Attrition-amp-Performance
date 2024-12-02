@@ -1,7 +1,7 @@
 # HR Analytics Employee Attrition &amp; Performance
 ## Overview
 This project collects and analyses the factors that lead to employee attrition and explore important questions.
-## File URL: https://docs.google.com/spreadsheets/d/1UlBEfwTc7wM610_CHwOoQN6VbMOmOVIz/edit?usp=sharing&ouid=116244289793869433410&rtpof=true&sd=true
+## File URL: https://github.com/oakindeji1/HR-Analytics-Employee-Attrition-amp-Performance/blob/main/WA_Fn-UseC_-HR-Employee-Attrition%20analysis.xlsx
 
 ## Data Collected
 ### The dataset includes the following key columns:
@@ -158,8 +158,7 @@ Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) 
 
 ## Dashboard
 			
-Total Number of Employees		Attrition Rate
-	1470	                         16%	  
+https://github.com/oakindeji1/HR-Analytics-Employee-Attrition-amp-Performance/blob/main/WA_Fn-UseC_-HR-Employee-Attrition%20analysis.xlsx	  
 
 	
 
