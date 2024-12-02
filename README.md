@@ -21,7 +21,18 @@ This project collects and analyses the factors that lead to employee attrition a
 7 WorkLifeBalance ('Bad','Good','Better','Best') etc
 
 ## Project Objectives
-This project was designed to address the following analysis goals:
+###	This project was designed to address the following analysis goals:
+###	Exploratory Data Analysis (EDA):
+	-	Identify trends and distributions.
+###	Key Metrics:
+	-	Attrition rates across demographics, job roles, and satisfaction levels.
+	-	Average compensation by job level or department.
+###	Insights:
+	-	Analyze patterns in attrition by age, department, and overtime.
+	-	Distribution of performance ratings and their connection with attrition.
+###	Visualizations:
+	-	Attrition rates by department, gender, and age group.
+	-	Salary distributions and satisfaction levels.
 
 ## Overall Information
 | Total Number of Employees |
